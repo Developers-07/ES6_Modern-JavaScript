@@ -1,0 +1,14 @@
+button{
+    background-color: green;
+    color: snow;
+    padding: 1rem;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 1rem;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
